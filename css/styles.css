@@ -7378,6 +7378,10 @@ textarea.form-control-lg {
 
 .mb-5 {
   margin-bottom: 3rem !important;
+  display: inline-block;
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
 }
 
 .mb-auto {
