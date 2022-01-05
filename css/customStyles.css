@@ -1,0 +1,58 @@
+.imLinkOne {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.visitLinkSC {
+    display: flex;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: -35px;
+    margin-bottom: 35px;
+}
+
+.imLinkTwo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.visitLinkCF {
+    display: flex;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: -35px;
+    margin-bottom: 35px;
+}
+
+.imLinkThree {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.visitLinkCodium {
+    display: flex;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: -35px;
+    margin-bottom: 35px;
+}
+
+.about {
+    margin: auto;
+    width: 50%;
+}
+
+.aboutSummary {
+    font-size: 30px;
+    text-align: center;
+}
+
+.sendbtn {
+    background-color: white;
+}
